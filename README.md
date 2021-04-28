@@ -12,7 +12,7 @@ This project is a simple meal finder app utiltzing the mealDB API.
 Project is created with:
 * Javascript ES6+
 * Webpack + Babel
-* Fetch API to asynchronously request from the mealDB API https://www.themealdb.com/api.php
+* Fetch requests to the mealDB API https://www.themealdb.com/api.php
 	
 ## Setup
 To run this project, install it locally using npm:
